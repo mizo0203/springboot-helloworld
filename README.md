@@ -1,5 +1,6 @@
 # springboot-helloworld
-Spring Boot 2 で hello, world!
+
+Spring Boot 2 で `Hello, World!` を出力する Web アプリ
 
 ## How to Run
 
